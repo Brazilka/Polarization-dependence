@@ -8,7 +8,7 @@ The output includes:
   ![dadwad](https://github.com/user-attachments/assets/cbbc18a9-fbaa-452f-909a-08964f280f10)
 
 
-# dipole-moments_3d.py
+# dipoles-3d.py
 Plots induced dipole moments in xyz for a given θ and calculates Raman scattered intensity. 
 ---
 The output includes:
@@ -27,7 +27,7 @@ The output includes:
 
 
 # 3D-polarization_dependence.py
-Also plots induced dipole moments in xyz (like dipole-moments_3d.py), but for all θ values.
+Also plots induced dipole moments in xyz (like dipoles-3d.py), but for all θ values.
 ---
 The output includes:
 - 3D video visualizing induced dipole moment vectors
