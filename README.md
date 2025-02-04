@@ -1,4 +1,4 @@
-# 2D-polarization_dependence.py
+# 2d-polarization_dependence.py
 Generates a dataset for analyzing the 2D dependence of θ (incident electric field vector angle) on ϕ (scattered electric field vector angle) for a given Raman tensor.
 ---
 The output includes:
@@ -18,7 +18,7 @@ The output includes:
 ![image](https://github.com/user-attachments/assets/5a459472-3fdc-45f2-9d3f-f16d47d59257)
 
 
-# 1D-polarization_dependence.py
+# 1d-polarization_dependence.py
 Dependence of Raman scattered intensity detected in certain scattering angle ϕ on all θ angles for given Raman tensors.
 ---
 The output includes:
@@ -26,7 +26,7 @@ The output includes:
 ![1-d-polarization-dependence](https://github.com/user-attachments/assets/23098a80-def9-4741-9148-84544171ce03)
 
 
-# 3D-polarization_dependence.py
+# 3d-polarization_dependence.py
 Also plots induced dipole moments in xyz (like dipoles-3d.py), but for all θ values.
 ---
 The output includes:
