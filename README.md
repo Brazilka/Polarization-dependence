@@ -24,11 +24,3 @@ Dependence of Raman scattered intensity detected in certain scattering angle ϕ 
 The output includes:
 - Simulation of polarization curve
 ![1-d-polarization-dependence](https://github.com/user-attachments/assets/23098a80-def9-4741-9148-84544171ce03)
-
-
-# 3d-polarization_dependence.py
-Also plots induced dipole moments in xyz (like dipoles-3d.py), but for all θ values.
----
-The output includes:
-- 3D video visualizing induced dipole moment vectors
-
