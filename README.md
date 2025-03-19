@@ -1,5 +1,6 @@
 # 2d-polarization_dependence.py
 Generates a dataset for analyzing the 2D dependence of θ (incident electric field vector angle) on ϕ (scattered electric field vector angle) for a given Raman tensor.
+This works for isotropic samples (there is no rotation matrix of Raman tensor since integral over all possible orientations - phi1, Phi, phi2 according to Bunge Euler angle convention, or theta, phi, psi according to Rue Euler angle convention, is 1). More on rotation matrices https://onlinelibrary.wiley.com/doi/pdf/10.1155/TSM.5.95.
 ---
 The output includes:
 - 2D graph of dot product values for all θ and ϕ combinations.
